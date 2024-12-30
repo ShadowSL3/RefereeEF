@@ -1,0 +1,17 @@
+config_version=5
+
+[application]
+
+config/name="RefereeEF"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+config/icon="res://icon.svg"
+config/tags=PackedStringArray("4.x", "commercial")
+
+[dotnet]
+
+project/assembly_name="RefereeEF"
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
