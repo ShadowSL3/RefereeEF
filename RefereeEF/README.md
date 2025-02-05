@@ -9,3 +9,13 @@
 - [ ] Add Goal Line Tecnology(TBD)
 - [ ] Reworking Timer
 - [ ] Add Buttons to give red and yellow cards
+
+# Currently Update Project
+Now Project Currently is completed 35%
+
+# Next Future For Evolution 
+- [ ] Add Custom Player customize
+- [ ] Add Timer Decreaser On Time
+- [ ] Remove Old CollisionShape2D
+- [ ] Change Resolution
+- [ ] Add Console For Helping
